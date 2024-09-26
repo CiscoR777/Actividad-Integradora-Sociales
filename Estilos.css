@@ -182,7 +182,7 @@ body {
 @media (max-width: 600px) {
     .resumen-info {
         width: 43%;
-        height: 650px;
+        height: 685px;
     }
 
     .datos-interesantes {
@@ -203,6 +203,6 @@ body {
 @media (max-width: 585px) {
     .resumen-info {
         width: 43%;
-        height: 805px;
+        height: 875px;
     }
 }
