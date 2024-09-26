@@ -199,3 +199,10 @@ body {
         font-size: 13px;
     }
 }
+
+@media (max-width: 585px) {
+    .resumen-info {
+        width: 43%;
+        height: 805px;
+    }
+}
